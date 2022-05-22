@@ -21,14 +21,14 @@ try {
   $mail->SMTPAuth = true;
 
   /* Tokens */
-  $mail->Username = 'lancellotti.noreplay@gmail.com';
-  $mail->Password = 'cGWiA=$y';
+  $mail->Username = '<your email>';
+  $mail->Password = 'skidadle skidoodle';
 
   /* Server's properties */
   $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
   $mail->Port = 587;
 
-  $mail->setFrom('lancellotti.noreplay@gmail.com', 'Mailer');
+  $mail->setFrom('<your email>', 'Mailer');
   $mail->addAddress($_GET['mail']);
 
   //Content
