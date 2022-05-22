@@ -10,7 +10,7 @@ require_once __DIR__."/../vendor/autoload.php";
 
 /* Creating objects and stuff (everythin copied by github's page) */
 $api_instance = new GPH\Api\DefaultApi();
-$api_key = "5RVqO9mCyNEbsB0JYcdb3enLqzIBc5pm";
+$api_key = "<i dunno put your GIHPY api key>";
 $search_key = "shoo sparrow";
 $rating = "g";
 $fmt = "json";
