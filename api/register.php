@@ -36,7 +36,7 @@ $check = $connection->exec(
 
 /* Checking the mail */
 try {
-  $mailer = new Mailer('lancellotti.noreplay@gmail.com', 'cGWiA=$y');
+  $mailer = new Mailer('<you email>', '<skidadle skidoodle>');
   $mailer->createMail(
     $mail, 'Registrazione', 
     'Grazie per esserti registrato',
