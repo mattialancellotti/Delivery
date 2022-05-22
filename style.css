@@ -1,0 +1,267 @@
+.login-container {
+  width: 400px;
+  margin: 0 auto;
+  margin-top: 15%;
+  border: 1px solid;
+}
+
+.login-header {
+  text-align: center;
+  height: 40px;
+}
+
+.login-header-button {
+  height: 100%;
+  width: 20%;
+  background-color: #FFFFFF;
+  border: 0px;
+  border-bottom: 2px solid #000000;
+}
+
+.login-header-button:hover {
+  background-color: #000000;
+  color: #FFFFFF;
+  transition-delay: 0.02s;
+  transition-duration: 1s;
+}
+
+.normal-login {
+  text-align: center;
+}
+
+.login-field {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: 30px;
+  width: 60%;
+}
+
+.short-login-field {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: 30px;
+  width: 34%;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.login-input {
+  width: 60%;
+  background-color: #FFFFFF;
+  border: 2px solid #000000;
+  height: 27px;
+  border-radius: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.login-input:hover {
+  background-color: #000000;
+  color: #FFFFFF;
+  transition-delay: 0.02s;
+  transition-duration: 1s;
+}
+
+.assisted-login {
+  text-align: center;
+}
+
+.google-login {
+  width: 27%;
+  border: 2px solid #DD2713;
+}
+
+.google-login:hover {
+  background-color: #DD2713;
+  color: #FFFFFF;
+  transition-delay: 0.02s;
+  transition-duration: 1s;
+}
+
+.login-bar {
+  width: 80%;
+  margin-top: 40px;
+}
+
+.normal-regis {
+  text-align: center;
+}
+
+.header-account {
+  margin-left: 87%;
+}
+
+.header-button {
+  width: 230px;
+  height: 60px;
+  text-align: left;
+  display: relative;
+}
+
+.expeditions {
+  margin-top: 10px;
+}
+
+.expeditions-header {
+  text-align: center;
+  margin-bottom: 10px;
+  width: 40%;
+  margin-left: 30%;
+}
+
+.expeditions-header-button {
+  height: 30px;
+  width: 70px;
+  background-color: #FFFFFF;
+  border: 0px;
+  border-bottom: 2px solid #000000;
+  font-size: 15px;
+}
+
+.expeditions-header-button:hover {
+  background-color: #000000;
+  color: #FFFFFF;
+  transition-delay: 0.02s;
+  transition-duration: 1s;
+}
+
+.expeditions-table {
+  text-align: center;
+  background: #E0E0E0;
+  border-collapse: collapse;
+  width: 40%;
+  margin-left: 30%;
+}
+
+.expeditions-table-header {
+  border: 1px solid black;
+  color: #FFFFFF;
+  background-color: #000000;
+}
+
+.header-column1 {
+  padding-top: 20px;
+  padding-bottom: 15px;
+}
+
+.body-column {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.body-row:hover {
+  background: #FFFFFF;
+  transition-delay: 0.02s;
+  transition-duration: 0.5s;
+}
+
+.funny-funny {
+  background: #969696;
+}
+
+.expeditions-tbody {
+  display: contents;
+}
+
+.arambe-tbody {
+  display: none;
+}
+
+.header-homepage {
+  margin-left: 10%;
+  width: 80%;
+  text-align: center;
+}
+
+.header-button {
+  height: 50px;
+  font-size: 20px;
+  text-align: center;
+  width: 100px;
+  border-radius: 10px;
+}
+
+.new-expeditions-table {
+  text-align: center;
+  background: #E0E0E0;
+  border-collapse: collapse;
+  width: 60%;
+  margin-left: 20%;
+  margin-bottom: 10px;
+}
+
+.new-expeditions-table-header {
+  border: 1px solid black;
+  color: #FFFFFF;
+  background-color: #000000;
+}
+
+.new-header-column1 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.page-header {
+  margin-bottom: 40px;
+}
+
+.qrcode-div {
+  border: 1px solid black;
+  border-radius: 5px;
+  text-align:center;
+  margin-left: 40%;
+  width: 20%;
+}
+
+.info {
+  margin-bottom: 2px;
+}
+
+.account-container {
+  margin-left: 40px;
+  width: 20%;
+  text-align: center;
+}
+
+.personal-info {
+  display: inline-flex;
+  text-align: center;
+  margin-left: 70px;
+}
+
+.worker-header-button {
+  height: 30px;
+  width: 100px;
+  background-color: #FFFFFF;
+  border: 0px;
+  border-bottom: 2px solid #000000;
+  font-size: 15px;
+}
+
+.worker-header-button:hover {
+  background-color: #000000;
+  color: #FFFFFF;
+  transition-delay: 0.02s;
+  transition-duration: 1s;
+}
+
+.worker-footer-button {
+  height: 30px;
+  width: 100px;
+  background-color: #FFFFFF;
+  border: 2px solid #000000;
+  border-radius: 3px;
+  font-size: 15px;
+}
+
+.worker-footer-button:hover {
+  background-color: #000000;
+  color: #FFFFFF;
+  transition-delay: 0.02s;
+  transition-duration: 1s;
+}
+
+.footer-div {
+  margin-top: 20px;
+  text-align: center;
+}
